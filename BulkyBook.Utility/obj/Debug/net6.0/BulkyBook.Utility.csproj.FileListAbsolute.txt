@@ -1,0 +1,84 @@
+D:\Project\ArchitectureProject\BulkyBook\BulkyBook.Utility\bin\Debug\net6.0\BulkyBook.Utility.deps.json
+D:\Project\ArchitectureProject\BulkyBook\BulkyBook.Utility\bin\Debug\net6.0\BulkyBook.Utility.dll
+D:\Project\ArchitectureProject\BulkyBook\BulkyBook.Utility\bin\Debug\net6.0\BulkyBook.Utility.pdb
+D:\Project\ArchitectureProject\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\BulkyBook.Utility.csproj.AssemblyReference.cache
+D:\Project\ArchitectureProject\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\BulkyBook.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\ArchitectureProject\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\BulkyBook.Utility.AssemblyInfoInputs.cache
+D:\Project\ArchitectureProject\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\BulkyBook.Utility.AssemblyInfo.cs
+D:\Project\ArchitectureProject\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\BulkyBook.Utility.csproj.CoreCompileInputs.cache
+D:\Project\ArchitectureProject\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\BulkyBook.Utility.dll
+D:\Project\ArchitectureProject\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\refint\BulkyBook.Utility.dll
+D:\Project\ArchitectureProject\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\BulkyBook.Utility.pdb
+D:\Project\ArchitectureProject\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\ref\BulkyBook.Utility.dll
+D:\Project\Repository\BulkyBook\BulkyBook.Utility\bin\Debug\net6.0\BulkyBook.Utility.deps.json
+D:\Project\Repository\BulkyBook\BulkyBook.Utility\bin\Debug\net6.0\BulkyBook.Utility.dll
+D:\Project\Repository\BulkyBook\BulkyBook.Utility\bin\Debug\net6.0\BulkyBook.Utility.pdb
+D:\Project\Repository\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\BulkyBook.Utility.csproj.AssemblyReference.cache
+D:\Project\Repository\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\BulkyBook.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Repository\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\BulkyBook.Utility.AssemblyInfoInputs.cache
+D:\Project\Repository\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\BulkyBook.Utility.AssemblyInfo.cs
+D:\Project\Repository\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\BulkyBook.Utility.csproj.CoreCompileInputs.cache
+D:\Project\Repository\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\BulkyBook.Utility.dll
+D:\Project\Repository\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\refint\BulkyBook.Utility.dll
+D:\Project\Repository\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\BulkyBook.Utility.pdb
+D:\Project\Repository\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\ref\BulkyBook.Utility.dll
+D:\Project\Product Management\BulkyBook\BulkyBook.Utility\bin\Debug\net6.0\BulkyBook.Utility.deps.json
+D:\Project\Product Management\BulkyBook\BulkyBook.Utility\bin\Debug\net6.0\BulkyBook.Utility.dll
+D:\Project\Product Management\BulkyBook\BulkyBook.Utility\bin\Debug\net6.0\BulkyBook.Utility.pdb
+D:\Project\Product Management\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\BulkyBook.Utility.csproj.AssemblyReference.cache
+D:\Project\Product Management\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\BulkyBook.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Product Management\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\BulkyBook.Utility.AssemblyInfoInputs.cache
+D:\Project\Product Management\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\BulkyBook.Utility.AssemblyInfo.cs
+D:\Project\Product Management\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\BulkyBook.Utility.csproj.CoreCompileInputs.cache
+D:\Project\Product Management\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\BulkyBook.Utility.dll
+D:\Project\Product Management\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\refint\BulkyBook.Utility.dll
+D:\Project\Product Management\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\BulkyBook.Utility.pdb
+D:\Project\Product Management\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\ref\BulkyBook.Utility.dll
+D:\Project\Identity Management\BulkyBook\BulkyBook.Utility\bin\Debug\net6.0\BulkyBook.Utility.deps.json
+D:\Project\Identity Management\BulkyBook\BulkyBook.Utility\bin\Debug\net6.0\BulkyBook.Utility.dll
+D:\Project\Identity Management\BulkyBook\BulkyBook.Utility\bin\Debug\net6.0\BulkyBook.Utility.pdb
+D:\Project\Identity Management\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\BulkyBook.Utility.csproj.AssemblyReference.cache
+D:\Project\Identity Management\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\BulkyBook.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Identity Management\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\BulkyBook.Utility.AssemblyInfoInputs.cache
+D:\Project\Identity Management\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\BulkyBook.Utility.AssemblyInfo.cs
+D:\Project\Identity Management\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\BulkyBook.Utility.csproj.CoreCompileInputs.cache
+D:\Project\Identity Management\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\BulkyBook.Utility.dll
+D:\Project\Identity Management\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\refint\BulkyBook.Utility.dll
+D:\Project\Identity Management\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\BulkyBook.Utility.pdb
+D:\Project\Identity Management\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\ref\BulkyBook.Utility.dll
+D:\Project\Shopping Cart\BulkyBook\BulkyBook.Utility\bin\Debug\net6.0\BulkyBook.Utility.deps.json
+D:\Project\Shopping Cart\BulkyBook\BulkyBook.Utility\bin\Debug\net6.0\BulkyBook.Utility.dll
+D:\Project\Shopping Cart\BulkyBook\BulkyBook.Utility\bin\Debug\net6.0\BulkyBook.Utility.pdb
+D:\Project\Shopping Cart\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\BulkyBook.Utility.csproj.AssemblyReference.cache
+D:\Project\Shopping Cart\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\BulkyBook.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Shopping Cart\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\BulkyBook.Utility.AssemblyInfoInputs.cache
+D:\Project\Shopping Cart\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\BulkyBook.Utility.AssemblyInfo.cs
+D:\Project\Shopping Cart\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\BulkyBook.Utility.csproj.CoreCompileInputs.cache
+D:\Project\Shopping Cart\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\BulkyBook.Utility.dll
+D:\Project\Shopping Cart\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\refint\BulkyBook.Utility.dll
+D:\Project\Shopping Cart\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\BulkyBook.Utility.pdb
+D:\Project\Shopping Cart\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\ref\BulkyBook.Utility.dll
+D:\Project\Order Management\BulkyBook\BulkyBook.Utility\bin\Debug\net6.0\BulkyBook.Utility.deps.json
+D:\Project\Order Management\BulkyBook\BulkyBook.Utility\bin\Debug\net6.0\BulkyBook.Utility.dll
+D:\Project\Order Management\BulkyBook\BulkyBook.Utility\bin\Debug\net6.0\BulkyBook.Utility.pdb
+D:\Project\Order Management\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\BulkyBook.Utility.csproj.AssemblyReference.cache
+D:\Project\Order Management\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\BulkyBook.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Order Management\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\BulkyBook.Utility.AssemblyInfoInputs.cache
+D:\Project\Order Management\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\BulkyBook.Utility.AssemblyInfo.cs
+D:\Project\Order Management\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\BulkyBook.Utility.csproj.CoreCompileInputs.cache
+D:\Project\Order Management\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\BulkyBook.Utility.dll
+D:\Project\Order Management\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\refint\BulkyBook.Utility.dll
+D:\Project\Order Management\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\BulkyBook.Utility.pdb
+D:\Project\Order Management\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\ref\BulkyBook.Utility.dll
+D:\Project\MVC Advance Concept\BulkyBook\BulkyBook.Utility\bin\Debug\net6.0\BulkyBook.Utility.deps.json
+D:\Project\MVC Advance Concept\BulkyBook\BulkyBook.Utility\bin\Debug\net6.0\BulkyBook.Utility.dll
+D:\Project\MVC Advance Concept\BulkyBook\BulkyBook.Utility\bin\Debug\net6.0\BulkyBook.Utility.pdb
+D:\Project\MVC Advance Concept\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\BulkyBook.Utility.csproj.AssemblyReference.cache
+D:\Project\MVC Advance Concept\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\BulkyBook.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\MVC Advance Concept\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\BulkyBook.Utility.AssemblyInfoInputs.cache
+D:\Project\MVC Advance Concept\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\BulkyBook.Utility.AssemblyInfo.cs
+D:\Project\MVC Advance Concept\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\BulkyBook.Utility.csproj.CoreCompileInputs.cache
+D:\Project\MVC Advance Concept\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\BulkyBook.Utility.dll
+D:\Project\MVC Advance Concept\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\refint\BulkyBook.Utility.dll
+D:\Project\MVC Advance Concept\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\BulkyBook.Utility.pdb
+D:\Project\MVC Advance Concept\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\ref\BulkyBook.Utility.dll
